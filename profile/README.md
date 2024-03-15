@@ -18,11 +18,11 @@ Our flagship project is the development of a versatile platform designed to stre
 
 This organization hosts multiple repositories dedicated to different components of our delivery solutions platform:
 
-- **[Backend]([link-to-backend-repo](https://github.com/Seven-Howls/delivery-control-backend))**: Contains the server-side code responsible for handling requests, managing data, and facilitating communication between the mobile app, web portal, and external services.
+- **[Backend](https://github.com/Seven-Howls/delivery-control-backend)**: Contains the server-side code responsible for handling requests, managing data, and facilitating communication between the mobile app, web portal, and external services.
   
-- **[Mobile App]([link-to-mobile-repo](https://github.com/Seven-Howls/delivery-control-mobile))**: Holds the codebase for the mobile application, built using [framework/library]. This includes UI components, navigation logic, and integration with device features.
+- **[Mobile App](https://github.com/Seven-Howls/delivery-control-mobile)**: Holds the codebase for the mobile application, built using [framework/library]. This includes UI components, navigation logic, and integration with device features.
   
-- **[Web Portal]([link-to-web-repo](https://github.com/Seven-Howls/delivery-control-web))**: Houses the codebase for the web-based dashboard accessible to dispatchers and administrators. It includes front-end components, backend API integrations, and data visualization tools.
+- **[Web Portal](https://github.com/Seven-Howls/delivery-control-web)**: Houses the codebase for the web-based dashboard accessible to dispatchers and administrators. It includes front-end components, backend API integrations, and data visualization tools.
 
 ## Contributing
 
